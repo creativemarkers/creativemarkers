@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: THE FACTORY MUST GROW
 
+PS I've got loads of contributions stacked up ready to go once i merge one of my private projects main branches, i've been programming straight for about 2 and half months.
+
 <!---
 creativemarkers/creativemarkers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
